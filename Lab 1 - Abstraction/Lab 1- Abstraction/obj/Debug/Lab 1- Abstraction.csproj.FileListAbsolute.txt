@@ -1,0 +1,14 @@
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1- Abstraction\Lab 1- Abstraction\bin\Debug\Lab 1- Abstraction.exe.config
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1- Abstraction\Lab 1- Abstraction\bin\Debug\Lab 1- Abstraction.exe
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1- Abstraction\Lab 1- Abstraction\bin\Debug\Lab 1- Abstraction.pdb
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1- Abstraction\Lab 1- Abstraction\obj\Debug\Lab 1- Abstraction.csprojAssemblyReference.cache
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1- Abstraction\Lab 1- Abstraction\obj\Debug\Lab 1- Abstraction.csproj.CoreCompileInputs.cache
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1- Abstraction\Lab 1- Abstraction\obj\Debug\Lab 1- Abstraction.exe
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1- Abstraction\Lab 1- Abstraction\obj\Debug\Lab 1- Abstraction.pdb
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Abstraction\Lab 1- Abstraction\bin\Debug\Lab 1- Abstraction.exe.config
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Abstraction\Lab 1- Abstraction\bin\Debug\Lab 1- Abstraction.exe
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Abstraction\Lab 1- Abstraction\bin\Debug\Lab 1- Abstraction.pdb
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Abstraction\Lab 1- Abstraction\obj\Debug\Lab 1- Abstraction.csprojAssemblyReference.cache
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Abstraction\Lab 1- Abstraction\obj\Debug\Lab 1- Abstraction.csproj.CoreCompileInputs.cache
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Abstraction\Lab 1- Abstraction\obj\Debug\Lab 1- Abstraction.exe
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Abstraction\Lab 1- Abstraction\obj\Debug\Lab 1- Abstraction.pdb

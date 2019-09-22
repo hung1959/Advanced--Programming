@@ -1,0 +1,7 @@
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Polymorphism - Part 3\Lab 1 - Polymorphism - Part 3\bin\Debug\Lab 1 - Polymorphism - Part 3.exe.config
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Polymorphism - Part 3\Lab 1 - Polymorphism - Part 3\bin\Debug\Lab 1 - Polymorphism - Part 3.exe
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Polymorphism - Part 3\Lab 1 - Polymorphism - Part 3\bin\Debug\Lab 1 - Polymorphism - Part 3.pdb
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Polymorphism - Part 3\Lab 1 - Polymorphism - Part 3\obj\Debug\Lab 1 - Polymorphism - Part 3.csprojAssemblyReference.cache
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Polymorphism - Part 3\Lab 1 - Polymorphism - Part 3\obj\Debug\Lab 1 - Polymorphism - Part 3.csproj.CoreCompileInputs.cache
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Polymorphism - Part 3\Lab 1 - Polymorphism - Part 3\obj\Debug\Lab 1 - Polymorphism - Part 3.exe
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Advanced-Programming\Lab 1 - Polymorphism - Part 3\Lab 1 - Polymorphism - Part 3\obj\Debug\Lab 1 - Polymorphism - Part 3.pdb

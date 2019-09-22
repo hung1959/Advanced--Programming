@@ -1,0 +1,7 @@
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1 - Polymorphysm - Part 2\Lab 1 - Polymorphysm - Part 2\bin\Debug\Lab 1 - Polymorphysm - Part 2.exe.config
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1 - Polymorphysm - Part 2\Lab 1 - Polymorphysm - Part 2\bin\Debug\Lab 1 - Polymorphysm - Part 2.exe
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1 - Polymorphysm - Part 2\Lab 1 - Polymorphysm - Part 2\bin\Debug\Lab 1 - Polymorphysm - Part 2.pdb
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1 - Polymorphysm - Part 2\Lab 1 - Polymorphysm - Part 2\obj\Debug\Lab 1 - Polymorphysm - Part 2.csprojAssemblyReference.cache
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1 - Polymorphysm - Part 2\Lab 1 - Polymorphysm - Part 2\obj\Debug\Lab 1 - Polymorphysm - Part 2.csproj.CoreCompileInputs.cache
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1 - Polymorphysm - Part 2\Lab 1 - Polymorphysm - Part 2\obj\Debug\Lab 1 - Polymorphysm - Part 2.exe
+E:\Học chuyên ngành\1651 - Advanced Programming\Labs\Lab 1\Lab 1 - Polymorphysm - Part 2\Lab 1 - Polymorphysm - Part 2\obj\Debug\Lab 1 - Polymorphysm - Part 2.pdb
